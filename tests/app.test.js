@@ -1,5 +1,5 @@
 // tests/app.test.js
-const { expect } = require('chai');
+import { expect } from 'chai';
 
 describe('Simple Test', () => {
   it('should return true', () => {
